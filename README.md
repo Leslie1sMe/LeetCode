@@ -1,2 +1,2 @@
 # LeetCode
-用golang刷LeetCode
+LeetCode第一遍
